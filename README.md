@@ -106,7 +106,7 @@ smart-complaint-management-system/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-complaint-management-system.git
+git clone https://github.com/TarunSingh13/smart-complaint-management-system/
 ```
 
 ---
@@ -220,20 +220,6 @@ POST /api/ai/analyze
 * Protected Backend Routes
 * Password Encryption using bcrypt
 * Secure API Communication
-
----
-
-# 📸 Project Screenshots
-
-## Features Demonstrated
-
-* User Authentication
-* Complaint Registration
-* Complaint Dashboard
-* AI Analysis Result
-* Complaint Status Tracking
-* MongoDB Database Storage
-* Render Deployment
 
 ---
 
